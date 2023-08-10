@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 18:46:19</sys_created_on>
+        <sys_id>1846635d97a0311065abbed0f053afb6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1107025_asat_adoption_application.x_1107025_asat.shelter_admin</sys_name>
+        <sys_package display_value="ASAT" source="x_1107025_asat">a581a31997a0311065abbed0f053af61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ASAT">a581a31997a0311065abbed0f053af61</sys_scope>
+        <sys_security_acl display_value="x_1107025_asat_adoption_application">dc46635d97a0311065abbed0f053afb3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_1846635d97a0311065abbed0f053afb6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 18:46:19</sys_updated_on>
+        <sys_user_role display_value="x_1107025_asat.shelter_admin" name="x_1107025_asat.shelter_admin">2d81a31997a0311065abbed0f053af67</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
